@@ -1,4 +1,4 @@
-# Colmar Academy
+# Number Guesser
 
 ## About The Project
 
